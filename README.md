@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/yakupbilgen/yakupbilgen/blob/main/readme_cover.png" />
 
-- 📫 How to reach me **yakupbilgen92@gmail.com**
+- 📫 How to reach me **yagizsvnc25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
